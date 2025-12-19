@@ -24,3 +24,12 @@ web_custom_versions/
 openapi.yaml
 filtered-openapi.yaml
 uv.lock
+# ComfyUI inventory & diagnostics (generated)
+_inventory/
+_logs/
+_diagnostics/
+/comfyui-unsafe-torch/
+/comfyui-unsafe-torch-cuda/
+_Quarantine/
+_Manifests/
+styles/
